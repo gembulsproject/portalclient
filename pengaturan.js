@@ -8,6 +8,6 @@ const CONFIG_APP = {
     namaVendor: "Gembuls Project",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo",
+    googleApiKey: "AIzaSyACcz4mkqU7YUpj1qj4xAKuqI-lx4tSUVk",
     whatsappAdmin: "6281232141160" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
 };
